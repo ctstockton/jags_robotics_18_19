@@ -10,16 +10,27 @@ The smaller robot is desired to be mostly autonomous. The Larger robot is desire
 ### Class/Object Ideas to use from API
 
 `lvgl::*`
+
 `okapi::ChassisModel`
+
 `okapi::ChassisControllerPID`
+
 `okapi::ChassisScale`
+
 `okapi::Logger`
+
 `okapi::VelMathArgs`
+
 `pros::battery`
+
 `pros::competition`
+
 `pros::Controller`
+
 `pros::Motor`
+
 `pros::Task`
+
 `pros::Vision`
 
 ### Other Imports
